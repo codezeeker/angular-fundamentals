@@ -21,6 +21,22 @@ __Advanced__ - select which are relevant from below
 Q1 - Why Am I doing this?
 
 - Why learning this project?
+     Required for Drupal project
 - How it is useful for me?
+     Essential for work
 - What will be the outcome of this project? What I will achieve at the end of this project(course)
+     I will be able to create more projects which are UI based for passion projects
+    
+- How it be useful in long term?
+     This enable to understand one of the popular javascript framework. It ll help me to be assess solutioning of newer projects and understand much wider area.
 - How it will elevate me?
+    Certaainly, knowing front end skills is an adon for my career and thinking. 
+    
+    
+    -------------------
+    # creating new angular app
+    `$ng new hello-world`
+    
+    # running new app
+    `$ng serve`
+    
